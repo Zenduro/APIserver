@@ -1,0 +1,25 @@
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\appsettings.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\API Server.exe
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\API Server.deps.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\API Server.runtimeconfig.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\API Server.dll
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\bin\Debug\net7.0\API Server.pdb
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.AssemblyInfoInputs.cache
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.AssemblyInfo.cs
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.csproj.CoreCompileInputs.cache
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets\msbuild.API Server.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets\msbuild.build.API Server.props
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API Server.props
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API Server.props
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\scopedcss\bundle\API Server.styles.css
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.dll
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\refint\API Server.dll
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.pdb
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\API Server.genruntimeconfig.cache
+c:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\APIserver\API Server\obj\Debug\net7.0\ref\API Server.dll
